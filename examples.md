@@ -1,7 +1,7 @@
 ---
 layout: default
 title: markdown examples
-permalink: /example/
+permalink: /examples/
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
