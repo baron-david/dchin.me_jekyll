@@ -1,6 +1,6 @@
 ---
 layout: default
-title: markdown examples
+title: Markdown Examples
 permalink: /examples/
 order: 200
 ---
