@@ -3,3 +3,4 @@ description: A single point of success
 show_downloads: false
 google_analytics: UA-4123553-1
 theme: jekyll-theme-tactile
+timezone: America/Los_Angeles
