@@ -4,3 +4,13 @@ layout: default
 
 {{ content }}
 
+<table>
+<tr>
+{% assign mypages = site.pages | sort: "order" %}
+{% for page in mypages %}
+	{% if page.title and page.category != "system" %}
+		<td style="text-align: center"><a href="{{ page.url | absolute_url }}">{{ page.title }}</a> </td>
+	{% endif %}
+{% endfor %}
+</tr>
+</table>
