@@ -1,11 +1,12 @@
 ---
 layout: default
-title: Posts
+title: My Posts
 permalink: /posts/
+order: 100
 ---
-
-### List of Posts:
+![posts](/assests/images/IMG_1267.png)
 <ol>
+{% assign posts = site.posts | sort: "date" %}
 {% for post in site.posts %}
     <li><a href="{{ post.url }}">{{ post.title}}</a>
     <span class="postDate">{{ post.date | date: "%b %-d, %Y" }}</span>

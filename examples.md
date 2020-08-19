@@ -2,6 +2,7 @@
 layout: default
 title: markdown examples
 permalink: /examples/
+order: 200
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
