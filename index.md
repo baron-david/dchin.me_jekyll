@@ -7,4 +7,3 @@ category: system
 
 ![Chicken Rider](/assets/images/IMG_1295.png)
 
-
