@@ -18,9 +18,7 @@
       <div class="inner">
 
         <header>
-          <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
-          <h1>{{ page.title | site.title | default: site.github.repository_name }}</h1>
-          <h1>{{ page.title }}</h1>		  
+          <h1>{{ page.title | default: site.title | default: site.github.repository_name }}</h1>	  
           <h2>{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
         </header>
 	  {% if site.show_downloads %}
@@ -47,7 +45,7 @@
         {% endif %}
           <!-- This is your footer. -->
 			<a href="https://twitter.com/hyperizedchin?ref_src=twsrc%5Etfw" class="twitter-follow-button" data-show-count="false">Follow @hyperizedchin</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-			This site is built by Jekyll <br />
+			<p>This site was built by Jekyll on {{ site.time }} </p>
 			Here is a <a href='./examples.html'>link</a> to an example markup page.
 		</footer>
 

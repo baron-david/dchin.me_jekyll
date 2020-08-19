@@ -1,6 +1,6 @@
 ---
 layout: default
-title: dchin.me
+title: dchin.me examples
 ---
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
