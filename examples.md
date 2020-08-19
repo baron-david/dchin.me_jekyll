@@ -1,6 +1,6 @@
 ---
 layout: default
-title: dchin.me examples
+title: markdown examples
 permalink: /example/
 ---
 
