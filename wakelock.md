@@ -4,7 +4,6 @@ title: Wake Lock
 permalink: /wakelock/
 order: 900
 ---
-
 This page should prevent a session from sleeping in Chrome 84+.
 
 Windows shortcut to open a small window.
@@ -21,6 +20,7 @@ powercfg /requests
 
 
 <script>
+//comment
 	navigator.wakeLock.request("screen");
 
 	const handleVisibilityChange = () => {
