@@ -10,6 +10,9 @@ _yay_
 
 [back](./)
 
+This page should prevent a session from sleeping in Chrome 84+.
+
+'powercfg /requests'
 
 <script>
 
