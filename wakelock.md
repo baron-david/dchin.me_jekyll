@@ -1,6 +1,6 @@
 ---
 layout: default
-title: another page
+title: Wake Lock
 permalink: /wakelock/
 order: 900
 ---
