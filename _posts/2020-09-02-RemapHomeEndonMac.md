@@ -5,7 +5,7 @@ layout: default
 
 # Remapping my Home & End Keys on my Macbook Pro
 
-I have noticed using certain applications on my Macbook, such as OneNote, when I use the Home and End buttons on my 104-key keyboard the cursor does not go to the end of a line but instead goes to the top or bottom of a page.  This is very different than how my Windows behave.  
+I have noticed using certain applications on my Macbook, such as inside webpage fields in Chrome, when I use the Home and End buttons on my 104-key keyboard the cursor does not go to the end of a line but instead goes to the top or bottom of a page.  This is very different than how my Windows behave.  
 
 Luckily someone on the internet had a way to remap the keys on a Macbook.
 
