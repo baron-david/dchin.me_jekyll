@@ -17,7 +17,9 @@ Luckily someone on the internet had a way to remap the keys on a Macbook.
 ```
 
 2. Contents of the file
+
 ```
+
 {
   "\UF729"  = moveToBeginningOfParagraph:; // home
   "\UF72B"  = moveToEndOfParagraph:; // end
@@ -29,11 +31,12 @@ Luckily someone on the internet had a way to remap the keys on a Macbook.
   "^$\UF729" = moveToBeginningOfDocumentAndModifySelection:; // ctrl-shift-home
   "^$\UF72B" = moveToEndOfDocumentAndModifySelection:; // ctrl-shift-end
 
-  ”^\UF702” = (moveWordLeft:); // ctrl-left
-  “^$\UF702” = (moveWordLeftAndModifySelection:); // ctrl-shift-left 
-  “^\UF703” = (moveWordRight:); // ctrl-right
-  “^$\UF703” = (moveWordRightAndModifySelection:); // ctrl-shift-right
+  "^\UF702" = (moveWordLeft:); // ctrl-left
+  "^$\UF702" = (moveWordLeftAndModifySelection:); // ctrl-shift-left 
+  "^\UF703" = (moveWordRight:); // ctrl-right
+  "^$\UF703" = (moveWordRightAndModifySelection:); // ctrl-shift-right
 }
+
 ```
 
 3. Reboot
