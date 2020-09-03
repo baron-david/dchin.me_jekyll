@@ -9,15 +9,14 @@ I have noticed using certain applications on my Macbook, such as inside webpage 
 
 Luckily someone on the internet had a way to remap the keys on a Macbook.
 
-[I borrowed this from this website...] (https://damieng.com/blog/2015/04/24/make-home-end-keys-behave-like-windows-on-mac-os-x)
+[I borrowed this from this website...](https://damieng.com/blog/2015/04/24/make-home-end-keys-behave-like-windows-on-mac-os-x)
 
-1. Create this file
+Step 1 - Create this file
 ```
 ~/Library/KeyBindings/DefaultKeyBinding.dict
 ```
 
-2. Contents of the file
-
+Step 2 - Contents of the file
 ```
 
 {
@@ -39,6 +38,6 @@ Luckily someone on the internet had a way to remap the keys on a Macbook.
 
 ```
 
-3. Reboot
+Step 3 - Reboot
 
 
