@@ -10,6 +10,6 @@ _yay_
 
 [back](./)
 
-[insta](https://www.instagram.com/baron_davidc/))
+[insta](https://www.instagram.com/baron_davidc/)
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
