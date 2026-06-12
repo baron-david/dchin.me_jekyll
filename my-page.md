@@ -8,10 +8,12 @@ order: 500
 
 _my links_
 
-[insta](https://www.instagram.com/baron_davidc/)
-
 [root](./)
 
 _my pics_
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+
+_socials_
+[X](https://x.com/daveopz)
+[insta](https://www.instagram.com/baron_davidc/)
