@@ -10,6 +10,8 @@ _my links_
 
 [root](./)
 
+[Linktree](https://linktr.ee/barondavid)
+
 _my pics_
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
