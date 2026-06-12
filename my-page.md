@@ -4,12 +4,14 @@ title: my page
 order: 500
 ---
 
-## Welcome to my page
+## davey's page
 
-_yay_
-
-[back](./)
+_my links_
 
 [insta](https://www.instagram.com/baron_davidc/)
+
+[root](./)
+
+_my pics_
 
 ![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
